@@ -1,0 +1,2 @@
+# Analysis_TwitterData
+Pada project kali ini kita menggunakan pemrograman R untuk membuat codenya. Sedangkan untuk visualisasinya kita menggunakan Gephi. Pada project ini kita menggunakan dataset yang diambil dari platform Twitter. Analisis ini biasa digunakan untuk mencari suatu tabel atau data yang diperlukan. Dengan mengambil tema vaksin, kita telah melakukan preprocessing dan visualisasi menggunakan gephi.
